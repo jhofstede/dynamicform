@@ -1,0 +1,13 @@
+.fields {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin: 10px;
+  padding: 5px;
+}
+
+.fieldItem {
+  padding: 10px;
+  border: dashed lightskyblue 1px;
+  flex-grow: 1;
+}
